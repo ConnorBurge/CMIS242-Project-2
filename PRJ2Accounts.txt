@@ -1,0 +1,13 @@
+7623, S, Jones, Phyllis, 2000.00, 0
+7623, C, Jones, Phyllis, 1200.00, 2
+8729, S, Smith, Cletus, 1000.00, 1
+8729, C, Smith, Cletus, 1700.00, 0
+7321, S, Booth, Betty, 4500.00, 2
+3242, C, Seybright, Sam, 4612.00, 0
+3242, S, Seybright, Sam, 100.00, 3
+9823, S, Blu, Oscar, 234.00, 2
+9823, C, Blu, Oscar, 2345.00, 0
+2341, S, Grief, Sally, 12373.12, 1
+2341, C, Grief, Sally, 5421.12, 2
+8321, S, Matchel, Jacues, 2314.00, 0
+8321, C, Matchel, Jacues, 56233.00, 0
